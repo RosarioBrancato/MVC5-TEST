@@ -1,0 +1,14 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Home";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<p>Hello from our View Template!</p>
+
+<form action="~/Donation/Welcome" method="get">
+    <p>Donator: <input type="text" class="form-control" name="name" /></p>
+    <p>Amount: <input type="number" class="form-control" name="numTimes" /></p>
+    <input type="submit" class="btn btn-success" value="Donate!" />
+</form>
