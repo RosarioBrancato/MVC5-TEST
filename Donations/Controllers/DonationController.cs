@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
+﻿using System.Web.Mvc;
 
 namespace Donations.Controllers {
-    public class DonationController : Controller {
+	public class DonationController : Controller {
 
         // GET: Donation
         public ActionResult Index() {
