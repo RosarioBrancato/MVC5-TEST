@@ -1,14 +1,15 @@
-D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\roslyn\VBCSCompiler.exe
+D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.Owin.xml
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\roslyn\csc.exe
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\roslyn\Microsoft.CSharp.Core.targets
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\roslyn\Microsoft.VisualBasic.Core.targets
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\roslyn\System.Collections.Immutable.dll
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\roslyn\System.Reflection.Metadata.dll
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\roslyn\vbc.exe
+D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\roslyn\VBCSCompiler.exe
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\roslyn\VBCSCompiler.exe.config
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Donations.dll.config
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Donations.dll
@@ -45,8 +46,8 @@ D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\WebGrease.dll
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Antlr3.Runtime.pdb
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Newtonsoft.Json.xml
-D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\System.Web.Helpers.xml
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\System.Web.Mvc.xml
+D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\System.Web.Helpers.xml
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\System.Web.Optimization.xml
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\System.Web.Razor.xml
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\System.Web.WebPages.xml
@@ -57,7 +58,6 @@ D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\EntityFramework.SqlS
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.AspNet.Identity.Core.xml
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.AspNet.Identity.Owin.xml
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.Owin.xml
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.Owin.Host.SystemWeb.xml
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.Owin.Security.xml
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.Owin.Security.Facebook.xml
@@ -66,5 +66,6 @@ D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.Owin.Secur
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.Owin.Security.Google.xml
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.Owin.Security.Twitter.xml
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Data\Visual Studio 2015\Projects\Donations\Donations\obj\Debug\Donations.csprojResolveAssemblyReference.cache
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\obj\Debug\Donations.dll
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\obj\Debug\Donations.pdb
