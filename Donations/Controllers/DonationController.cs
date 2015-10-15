@@ -1,14 +1,17 @@
 ﻿using System.Web.Mvc;
 
 namespace Donations.Controllers {
+
+	[RoutePrefix("Donation")]
 	public class DonationController : Controller {
 
-        // GET: Donation
+        [Route("Index")]
         public ActionResult Index() {
             return View();
         }
 
-        public ActionResult Welcome(string name = "Guest", int numTimes = 1) {
+		[Route("Welcome/{name?}/{numTimes?}")]
+		public ActionResult Welcome(string name = "Guest", int? numTimes = 1) {
             ViewBag.Message = "Hello " + name;
             ViewBag.NumTimes = numTimes;
 

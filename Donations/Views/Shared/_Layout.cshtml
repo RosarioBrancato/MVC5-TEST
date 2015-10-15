@@ -1,5 +1,4 @@
-﻿@inherits System.Web.Mvc.WebViewPage<dynamic>
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -23,7 +22,8 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li>@Html.ActionLink("Home", "Index", "Donation")</li>
-                    <li>@Html.ActionLink("Donations", "Welcome", "Donation")</li>
+                    <!--<li>@Html.ActionLink("Donations", "Welcome", "Donation")</li>-->
+					<li>@Html.RouteLink("Donations", "Welcome")</li>
 					<li>@Html.ActionLink("Movies", "Index", "Movies")</li>
                 </ul>
             </div>
