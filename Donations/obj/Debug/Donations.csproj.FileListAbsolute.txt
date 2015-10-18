@@ -1,4 +1,3 @@
-D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.Owin.xml
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\roslyn\csc.exe
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -58,6 +57,7 @@ D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\EntityFramework.SqlS
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.AspNet.Identity.Core.xml
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.AspNet.Identity.Owin.xml
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.Owin.xml
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.Owin.Host.SystemWeb.xml
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.Owin.Security.xml
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.Owin.Security.Facebook.xml
@@ -66,6 +66,7 @@ D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.Owin.Secur
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.Owin.Security.Google.xml
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.Owin.Security.Twitter.xml
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\Data\Visual Studio 2015\Projects\Donations\Donations\obj\Debug\Donations.csprojResolveAssemblyReference.cache
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\obj\Debug\Donations.dll
 D:\Data\Visual Studio 2015\Projects\Donations\Donations\obj\Debug\Donations.pdb
+D:\Data\Visual Studio 2015\Projects\Donations\Donations\obj\Debug\Donations.csprojResolveAssemblyReference.cache
+D:\Data\Visual Studio 2015\Projects\Donations\Donations\bin\RouteDebugger.dll
