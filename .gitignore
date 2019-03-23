@@ -1,4 +1,6 @@
 .vs/
+bin/
+obj/
 
 # Windows image file caches
 Thumbs.db
